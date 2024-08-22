@@ -165,6 +165,10 @@ rect.disabled {
     /* overwrite default navbar size */
 }
 
+.navbar-text {
+    align-items: center;
+}
+
 .Spectacles_Footer {
     visibility: hidden;
 }

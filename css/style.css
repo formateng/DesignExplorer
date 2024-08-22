@@ -166,6 +166,7 @@ rect.disabled {
 }
 
 .navbar-text {
+    display: flex;
     align-items: center;
 }
 
